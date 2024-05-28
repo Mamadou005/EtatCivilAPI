@@ -2,7 +2,7 @@
 namespace EtatCivilAPI.Models
 {
     public class Death
-    {
+    { 
         public int Id { get; set; }
 
         public string FirstName { get; set; }
